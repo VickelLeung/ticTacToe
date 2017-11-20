@@ -9,5 +9,5 @@ It has 2 game modes
   -Against human
   -Against Computer
   
-  ##Main Menu
-  ![tic.png](https://postimg.org/image/6vvm77k9x/)
+  ## Main Menu
+ [![tic.png](https://s18.postimg.org/542ncb0x5/tic.png)](https://postimg.org/image/6vvm77k9x/)
